@@ -1,0 +1,17 @@
+{
+  "name": "bare",
+  "version": "1.0.0",
+  "description": "A server that barely does one thing..",
+  "main": "index.js",
+  "browser": "client.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "connect": "^3.6.0"
+  },
+  "dependencies": {
+    "xhr": "^2.4.0"
+  }
+}
