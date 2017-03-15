@@ -7,7 +7,7 @@
   "scripts": {},
   "author": "",
   "license": "MIT",
-  "bin": { "bare": "./index.js" },
+  "bin": { "bare": "./cli.js" },
   "devDependencies": {
     "body-parser": "^1.17.1",
     "connect": "^3.6.0"
